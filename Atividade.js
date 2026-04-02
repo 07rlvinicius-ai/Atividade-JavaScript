@@ -38,5 +38,5 @@ const respostas_aluno = ['a', 'b', 'b', 'b', 'b'];
 
 const notafinal = prova.calcularNota(respostas_aluno);
 
-console.log("Nota final:", notafinal);
+console.log(notafinal);
 console.log(respostas_aluno)
